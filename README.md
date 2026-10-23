@@ -65,13 +65,6 @@ I enjoy experimenting with new technologies, improving my development skills, an
 
 ## 🚀 Featured Projects
 
-### 🛍️ Coursivo
-
-A digital platform focused on eBooks and digital products.
-
-- Website: [coursivo.in](https://www.coursivo.in/)
-- Focus: Website development, digital product presentation, and user experience.
-
 ### 💰 SpendWise
 
 A personal finance dashboard project focused on organizing income, expenses, budgets, and spending insights.
