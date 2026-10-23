@@ -106,7 +106,6 @@ A collection of website development and SaaS-style projects created through hand
 
 <a href="https://github.com/AnjumSheikh01">GitHub</a> &nbsp; • &nbsp;
 <a href="https://www.linkedin.com/in/anjumsheikh-cse/">LinkedIn</a> &nbsp; • &nbsp;
-<a href="https://www.coursivo.in/">Website</a>
 
 <br/><br/>
 
