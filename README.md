@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.jpg" width="100%" alt="AnjumSheikh01 — monochrome lotus banner" />
+<img src="./banner.jpg" width="100%" alt="AnjumSheikh01 — monochrome lotus banner" />
 
 <br/>
 
